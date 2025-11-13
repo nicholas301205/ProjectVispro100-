@@ -93,6 +93,13 @@ namespace ProjectVisualProgramming
             }
         }
 
+        private void btnKembali_Click(object sender, EventArgs e)
+        {
+            FrmOrder pemesananForm = new FrmOrder();
+            pemesananForm.Show();
+            this.Hide();
+        }
+
         private void FrmPembayaran_Load(object sender, EventArgs e)
         {
 
