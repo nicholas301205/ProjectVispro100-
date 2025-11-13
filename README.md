@@ -1,1 +1,2 @@
-# ProjectVispro100-
+# Mandey, Nicholas
+# Hongjoyo, Zacklee
