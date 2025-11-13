@@ -149,6 +149,7 @@
             this.btnKembali.TabIndex = 22;
             this.btnKembali.Text = "Kembali";
             this.btnKembali.UseVisualStyleBackColor = true;
+            this.btnKembali.Click += new System.EventHandler(this.btnKembali_Click);
             // 
             // btnSimpan
             // 
